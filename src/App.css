@@ -1,0 +1,89 @@
+*{
+  margin:0;
+  padding:0;
+}
+body,html{
+  background-image: url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png");
+  background-repeat: no-repeat;
+  background-size: 100% 450px;
+}
+.dis{
+  color:white;
+}
+.fir 
+{
+  margin-left: 500px;
+}
+.fir ul{
+  display:flex;
+  justify-content: space-around;
+}
+.fir ul li{
+  color:white;
+  list-style:none;
+  margin-top:30px;
+  font-size: larger;
+}
+.zomato{
+  margin-top: 50px;
+}
+.app{
+  margin-top:-50px;
+margin-left:200px;
+color:white;
+}
+.in{
+  margin-left: 200px;
+}
+.sig{
+  margin-right: 200px;
+}
+.car{
+  display: flex;
+  margin-top: 150px;
+  justify-content: center;
+}
+.card{
+  width:320px;
+  height:150px;
+ border-top: 10px;
+}
+.card:hover
+{
+  transform: scale(1.1);
+}
+.card img{
+  border-radius: 20px;
+  width:320px;
+  height: 150px;
+}
+.car1
+{
+  margin-right: 80px;
+}
+.car2
+{
+  margin-right: 40px;
+}
+.coll
+{
+  margin-top: 160px;
+  margin-left: 210px;
+}
+.image
+{
+  display: flex;
+  justify-content:space-around;
+}
+.image img{
+  margin-right: 100px;
+}
+.input
+{
+  margin-top: 20px;
+  height:50px;
+  width:800px;
+  border-radius:8px;
+  outline-style: none;
+  border-color: white;
+}
